@@ -1,6 +1,6 @@
 {
   "name": "misty-pokedex",
-  "homepage": "https://myusername.github.io/mistys-pokedex",
+  "homepage": "https://AmyWilford.github.io/mistys-pokedex",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
