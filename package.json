@@ -1,6 +1,6 @@
 {
   "name": "misty-pokedex",
-  "homepage": "https://AmyWilford.github.io/mistys-pokedex",
+  "homepage": "https://amywilford.github.io/Mistys-Pokedex",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.0",
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d main build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
