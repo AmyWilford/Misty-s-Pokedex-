@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mistys-pokedex/static/css/main.80adac1b.chunk.css",
-    "main.js": "/mistys-pokedex/static/js/main.dda54dce.chunk.js",
-    "main.js.map": "/mistys-pokedex/static/js/main.dda54dce.chunk.js.map",
-    "runtime-main.js": "/mistys-pokedex/static/js/runtime-main.65301e5b.js",
-    "runtime-main.js.map": "/mistys-pokedex/static/js/runtime-main.65301e5b.js.map",
-    "static/js/2.c3083447.chunk.js": "/mistys-pokedex/static/js/2.c3083447.chunk.js",
-    "static/js/2.c3083447.chunk.js.map": "/mistys-pokedex/static/js/2.c3083447.chunk.js.map",
-    "static/js/3.53d5d281.chunk.js": "/mistys-pokedex/static/js/3.53d5d281.chunk.js",
-    "static/js/3.53d5d281.chunk.js.map": "/mistys-pokedex/static/js/3.53d5d281.chunk.js.map",
-    "index.html": "/mistys-pokedex/index.html",
-    "static/css/main.80adac1b.chunk.css.map": "/mistys-pokedex/static/css/main.80adac1b.chunk.css.map",
-    "static/js/2.c3083447.chunk.js.LICENSE.txt": "/mistys-pokedex/static/js/2.c3083447.chunk.js.LICENSE.txt",
-    "static/media/misty.670e4386.png": "/mistys-pokedex/static/media/misty.670e4386.png",
-    "static/media/pokeball-blue.029881e7.png": "/mistys-pokedex/static/media/pokeball-blue.029881e7.png",
-    "static/media/pokeball-yellow.13775cd6.png": "/mistys-pokedex/static/media/pokeball-yellow.13775cd6.png"
+    "main.css": "/Mistys-Pokedex/static/css/main.80adac1b.chunk.css",
+    "main.js": "/Mistys-Pokedex/static/js/main.dda54dce.chunk.js",
+    "main.js.map": "/Mistys-Pokedex/static/js/main.dda54dce.chunk.js.map",
+    "runtime-main.js": "/Mistys-Pokedex/static/js/runtime-main.e65d012f.js",
+    "runtime-main.js.map": "/Mistys-Pokedex/static/js/runtime-main.e65d012f.js.map",
+    "static/js/2.90f65bb6.chunk.js": "/Mistys-Pokedex/static/js/2.90f65bb6.chunk.js",
+    "static/js/2.90f65bb6.chunk.js.map": "/Mistys-Pokedex/static/js/2.90f65bb6.chunk.js.map",
+    "static/js/3.53d5d281.chunk.js": "/Mistys-Pokedex/static/js/3.53d5d281.chunk.js",
+    "static/js/3.53d5d281.chunk.js.map": "/Mistys-Pokedex/static/js/3.53d5d281.chunk.js.map",
+    "index.html": "/Mistys-Pokedex/index.html",
+    "static/css/main.80adac1b.chunk.css.map": "/Mistys-Pokedex/static/css/main.80adac1b.chunk.css.map",
+    "static/js/2.90f65bb6.chunk.js.LICENSE.txt": "/Mistys-Pokedex/static/js/2.90f65bb6.chunk.js.LICENSE.txt",
+    "static/media/misty.670e4386.png": "/Mistys-Pokedex/static/media/misty.670e4386.png",
+    "static/media/pokeball-blue.029881e7.png": "/Mistys-Pokedex/static/media/pokeball-blue.029881e7.png",
+    "static/media/pokeball-yellow.13775cd6.png": "/Mistys-Pokedex/static/media/pokeball-yellow.13775cd6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.65301e5b.js",
-    "static/js/2.c3083447.chunk.js",
+    "static/js/runtime-main.e65d012f.js",
+    "static/js/2.90f65bb6.chunk.js",
     "static/css/main.80adac1b.chunk.css",
     "static/js/main.dda54dce.chunk.js"
   ]
