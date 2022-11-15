@@ -20,9 +20,9 @@ function App() {
       <Route exact path={`${match.url}pokemon/:id`}>
         <PokemonDetails />
       </Route>
-      {/* <Route exact path = {match.url}> */}
+      <Route exact path = '/'>
         <Pokemon />
-      {/* </Route> */}
+      </Route>
     </Switch>
     <div className ="container">
       <Footer />
