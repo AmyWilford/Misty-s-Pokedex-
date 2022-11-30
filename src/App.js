@@ -1,4 +1,4 @@
-import { Switch, Route, useRouteMatch } from "react-router-dom";
+import { HashRouter, Route, useRouteMatch } from "react-router-dom";
 import "./App.css";
 
 // import components
@@ -15,14 +15,14 @@ function App() {
       <div className="container">
         <Header />
       </div>
-      <Switch>
+      <HashRouter>
         <Route exact path={`${match.url}pokemon/:id`}>
           <PokemonDetails />
         </Route>
-        <Route exact path="/Mistys-Pokedex">
+        <Route exact path={match.url}>
           <Pokemon />
         </Route>
-      </Switch>
+      </HashRouter>
       <div className="container">
         <Footer />
       </div>
