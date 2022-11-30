@@ -4,7 +4,6 @@
 
 An online encycolopedia build using React and PokeAPI to collect and catalog details on the origianl set of 150 Pokémon
 
-
 ## Table of Contents
 
 - [Technologies Used](#Technologies-Used)
@@ -15,11 +14,12 @@ An online encycolopedia build using React and PokeAPI to collect and catalog det
 ## Technologies Used
 
 ## Usage
-When the site opens, the pokedex will load your pokemon. Once loaded, click on any  card to access details of that specific pokemon. Once you've got the information you need, go back to main pokedex page.
+
+When the site opens, the pokedex will load your pokemon. Once loaded, click on any card to access details of that specific pokemon. Once you've got the information you need, go back to main pokedex page.
 
 ## Installation
 
-No installation is required to view the currently deployed site:  
+No installation is required to view the currently [deployed site](#https://amywilford.github.io/Mistys-Pokedex/#/)
 If you wanted to download a local copy of this code you will need to install npm dependencies. Once code is downloaded, in your terminal, run
 
 ```
