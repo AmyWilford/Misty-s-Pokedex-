@@ -12,6 +12,14 @@ An online encycolopedia build using React and PokeAPI to collect and catalog det
 - [Credits](#credits)
 
 ## Technologies Used
+- React
+- JavaScript
+- Axios
+- Styled Components
+- Third Party Api (PokeAPI)
+- HTML
+- CSS
+- Bootstrap
 
 ## Usage
 
