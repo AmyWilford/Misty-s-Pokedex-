@@ -8,6 +8,7 @@ import Loading from "../components/Loading";
 
 // Styled Components
 const StyledImage = styled.img`
+  max-width: 300px;
   width: 40%;
 `;
 
@@ -47,8 +48,8 @@ const PokemonDetails = () => {
         </div>
       )}
       {!loading && !error && pokemon && (
-        <div className="bg-white m-3 p-5">
-          <Link className="btn btn-danger p-1 mb-3" to="/">
+        <div className="bg-white m-2 p-4">
+          <Link className="btn btn-danger py-2 mb-3" to="/">
             back to pokédex
           </Link>
           <h4 className="display-5">{pokemon.name}</h4>
